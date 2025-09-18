@@ -85,3 +85,10 @@ layout: default
 1.  **双运营商的奢侈**：如果你行程长且重要，我甚至试过同时买一张Claro和一张Tigo！一部手机插物理卡，另一部开eSIM（或双卡手机）。总成本没高多少，但从此再没担心过信号盲区，安全感爆棚。
 2.  **充值陷阱**：街头小店充值，偶尔会遇到给错充值码或者面额不符的情况，最好当场验证一下再到店外使用。大公司的直营店最靠谱。
 3.  **Wi-Fi呼叫**：在酒店连上Wi-Fi后，别忘了试试iPhone的“Wi-Fi呼叫”功能，
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [El Salvador SIM 卡购买与激活指南](https://faciylike.github.io/el-salvador-sim-guides)
